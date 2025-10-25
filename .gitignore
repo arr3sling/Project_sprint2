@@ -1,9 +1,9 @@
+myenv/
 # Файл окружения с паролями и ключами
 .env
 .env.local
 .env.production
 .env.development
-myenv/
 # Файлы паролей и ключей
 *.key
 *.pem
